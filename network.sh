@@ -1,6 +1,6 @@
 #!/bin/bash
 #Network connectivity
-HOST="czechav.com"
+HOST="youtube.com"
 #Output file
 output_file="/home/goutham/output.txt"
 
